@@ -1,0 +1,28 @@
+Mathematical Operators
+
+Addition, Subtraction, and Multiplication Example with Interger Results
+>>> 2 + 3
+5
+>>> 3 - 2
+1
+>>> 4 * 5
+20
+
+Division with Floating Point Result
+>>> 5/4
+1.25 (aka a float)
+
+>>> type(5/4) # Use type to identify
+<class 'float'>
+
+>>> type(20)
+<class 'int'>
+
+>>> type("This is a string.")
+<class 'str'>
+
+>>> print(4*5)
+20
+
+>>> 5**2 # Power
+25

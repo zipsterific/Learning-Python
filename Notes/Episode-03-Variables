@@ -1,0 +1,20 @@
+Simple Definition
+A Variable is a storage "container" so to speak.
+
+A variable can hold a string for example.
+
+someString = "This is a string."
+^             ^
+Variable      string
+
+Recall the Variable
+>>> someString
+'This is a string.
+
+Recall the Variable Twice
+>>> someString * 2
+'This is a string.This is a string.'
+
+Recall a stored string plus a string. String concatenation 
+>>> someString + "Some other string!"
+'This is a string.Some other string!'

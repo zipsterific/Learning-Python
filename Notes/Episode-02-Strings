@@ -1,0 +1,18 @@
+Simple Definition
+A 'string' is simply a list of characters in order.
+
+Python uses single quotes ('), double quotes ("), and triple quotes, (""")
+
+>>> print ('I am a single quoted string')
+I am a single quoted string
+
+>>> print ("I am a double quoted string")
+I am a double quoted string
+
+>>> print ("""I am a triple quoted string""")
+I am a triple quoted string
+
+
+Escape special characters
+>>> 'let\'s go'
+"let's go"
